@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello, I'm Andrii 👋
+💻 Data Engineering Enthusiast
+
+🎓 Computer Science student at Lodz University of Technology
+🐍 Working with Python and SQL
+📚 Currently learning Data Engineering, databases, and data pipelines
+🚀 Passionate about building efficient data solutions and continuously improving my skills
 
 <!--
 **amaslov-de/amaslov-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
